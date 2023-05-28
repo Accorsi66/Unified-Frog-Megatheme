@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 <p align="center">
-# <img alt="Logo" src="https://i.ibb.co/Tm85sKL/unified-logo-png.png" width="300px">
+<img alt="Logo" src="https://i.ibb.co/Tm85sKL/unified-logo-png.png" width="300px">
 </p>
 
 *test here.*
